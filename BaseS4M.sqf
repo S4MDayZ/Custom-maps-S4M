@@ -9223,4 +9223,508 @@ if (true) then
   _this setPos [2261.0957, 14330.772];
 };
 
+_vehicle_862 = objNull;
+if (true) then
+{
+  _this = createVehicle ["ClutterCutter_EP1", [2326.5283, 14322.398, 0], [], 0, "CAN_COLLIDE"];
+  _vehicle_862 = _this;
+  _this setPos [2326.5283, 14322.398, 0];
+};
+
+_vehicle_863 = objNull;
+if (true) then
+{
+  _this = createVehicle ["ClutterCutter_EP1", [2321.0808, 14311.994, 0], [], 0, "CAN_COLLIDE"];
+  _vehicle_863 = _this;
+  _this setPos [2321.0808, 14311.994, 0];
+};
+
+_vehicle_864 = objNull;
+if (true) then
+{
+  _this = createVehicle ["ClutterCutter_EP1", [2314.2202, 14299.508, -6.1035156e-005], [], 0, "CAN_COLLIDE"];
+  _vehicle_864 = _this;
+  _this setPos [2314.2202, 14299.508, -6.1035156e-005];
+};
+
+_vehicle_865 = objNull;
+if (true) then
+{
+  _this = createVehicle ["ClutterCutter_EP1", [2307.0803, 14291.214, -0.00018310547], [], 0, "CAN_COLLIDE"];
+  _vehicle_865 = _this;
+  _this setPos [2307.0803, 14291.214, -0.00018310547];
+};
+
+_vehicle_866 = objNull;
+if (true) then
+{
+  _this = createVehicle ["ClutterCutter_EP1", [2295.8279, 14283.445, -6.1035156e-005], [], 0, "CAN_COLLIDE"];
+  _vehicle_866 = _this;
+  _this setPos [2295.8279, 14283.445, -6.1035156e-005];
+};
+
+_vehicle_867 = objNull;
+if (true) then
+{
+  _this = createVehicle ["ClutterCutter_EP1", [2287.4275, 14276.364, -0.00012207031], [], 0, "CAN_COLLIDE"];
+  _vehicle_867 = _this;
+  _this setPos [2287.4275, 14276.364, -0.00012207031];
+};
+
+_vehicle_868 = objNull;
+if (true) then
+{
+  _this = createVehicle ["ClutterCutter_EP1", [2332.792, 14337.508, -0.00012207031], [], 0, "CAN_COLLIDE"];
+  _vehicle_868 = _this;
+  _this setPos [2332.792, 14337.508, -0.00012207031];
+};
+
+_vehicle_869 = objNull;
+if (true) then
+{
+  _this = createVehicle ["ClutterCutter_EP1", [2311.9683, 14345.021, 0], [], 0, "CAN_COLLIDE"];
+  _vehicle_869 = _this;
+  _this setPos [2311.9683, 14345.021, 0];
+};
+
+_vehicle_870 = objNull;
+if (true) then
+{
+  _this = createVehicle ["ClutterCutter_EP1", [2321.8601, 14341.751, 0], [], 0, "CAN_COLLIDE"];
+  _vehicle_870 = _this;
+  _this setPos [2321.8601, 14341.751, 0];
+};
+
+_vehicle_871 = objNull;
+if (true) then
+{
+  _this = createVehicle ["ClutterCutter_EP1", [2294.1909, 14354.517, 0], [], 0, "CAN_COLLIDE"];
+  _vehicle_871 = _this;
+  _this setPos [2294.1909, 14354.517, 0];
+};
+
+_vehicle_872 = objNull;
+if (true) then
+{
+  _this = createVehicle ["ClutterCutter_EP1", [2303.7637, 14352.434, 0], [], 0, "CAN_COLLIDE"];
+  _vehicle_872 = _this;
+  _this setPos [2303.7637, 14352.434, 0];
+};
+
+_vehicle_873 = objNull;
+if (true) then
+{
+  _this = createVehicle ["ClutterCutter_EP1", [2264.4106, 14408.64, 6.1035156e-005], [], 0, "CAN_COLLIDE"];
+  _vehicle_873 = _this;
+  _this setPos [2264.4106, 14408.64, 6.1035156e-005];
+};
+
+_vehicle_874 = objNull;
+if (true) then
+{
+  _this = createVehicle ["ClutterCutter_EP1", [2261.7393, 14395.263, 6.1035156e-005], [], 0, "CAN_COLLIDE"];
+  _vehicle_874 = _this;
+  _this setPos [2261.7393, 14395.263, 6.1035156e-005];
+};
+
+_vehicle_875 = objNull;
+if (true) then
+{
+  _this = createVehicle ["ClutterCutter_EP1", [2243.7363, 14415.642, 6.1035156e-005], [], 0, "CAN_COLLIDE"];
+  _vehicle_875 = _this;
+  _this setPos [2243.7363, 14415.642, 6.1035156e-005];
+};
+
+_vehicle_876 = objNull;
+if (true) then
+{
+  _this = createVehicle ["ClutterCutter_EP1", [2254.7915, 14411.919, -6.1035156e-005], [], 0, "CAN_COLLIDE"];
+  _vehicle_876 = _this;
+  _this setPos [2254.7915, 14411.919, -6.1035156e-005];
+};
+
+_vehicle_877 = objNull;
+if (true) then
+{
+  _this = createVehicle ["ClutterCutter_EP1", [2258.7141, 14410.676, 0.00012207031], [], 0, "CAN_COLLIDE"];
+  _vehicle_877 = _this;
+  _this setPos [2258.7141, 14410.676, 0.00012207031];
+};
+
+_vehicle_878 = objNull;
+if (true) then
+{
+  _this = createVehicle ["ClutterCutter_EP1", [2218.4175, 14425.19, 6.1035156e-005], [], 0, "CAN_COLLIDE"];
+  _vehicle_878 = _this;
+  _this setPos [2218.4175, 14425.19, 6.1035156e-005];
+};
+
+_vehicle_879 = objNull;
+if (true) then
+{
+  _this = createVehicle ["ClutterCutter_EP1", [2229.1279, 14421.088, 0], [], 0, "CAN_COLLIDE"];
+  _vehicle_879 = _this;
+  _this setPos [2229.1279, 14421.088, 0];
+};
+
+_vehicle_880 = objNull;
+if (true) then
+{
+  _this = createVehicle ["ClutterCutter_EP1", [2182.7119, 14422.73, 0.00012207031], [], 0, "CAN_COLLIDE"];
+  _vehicle_880 = _this;
+  _this setPos [2182.7119, 14422.73, 0.00012207031];
+};
+
+_vehicle_881 = objNull;
+if (true) then
+{
+  _this = createVehicle ["ClutterCutter_EP1", [2141.686, 14332.979, -3.0517578e-005], [], 0, "CAN_COLLIDE"];
+  _vehicle_881 = _this;
+  _this setPos [2141.686, 14332.979, -3.0517578e-005];
+};
+
+_vehicle_882 = objNull;
+if (true) then
+{
+  _this = createVehicle ["ClutterCutter_EP1", [2150.4766, 14341.434, -3.0517578e-005], [], 0, "CAN_COLLIDE"];
+  _vehicle_882 = _this;
+  _this setPos [2150.4766, 14341.434, -3.0517578e-005];
+};
+
+_vehicle_883 = objNull;
+if (true) then
+{
+  _this = createVehicle ["ClutterCutter_EP1", [2155.4119, 14353.963, -0.00021362305], [], 0, "CAN_COLLIDE"];
+  _vehicle_883 = _this;
+  _this setPos [2155.4119, 14353.963, -0.00021362305];
+};
+
+_vehicle_884 = objNull;
+if (true) then
+{
+  _this = createVehicle ["ClutterCutter_EP1", [2160.2515, 14367.209, 3.0517578e-005], [], 0, "CAN_COLLIDE"];
+  _vehicle_884 = _this;
+  _this setPos [2160.2515, 14367.209, 3.0517578e-005];
+};
+
+_vehicle_885 = objNull;
+if (true) then
+{
+  _this = createVehicle ["ClutterCutter_EP1", [2165.3647, 14379.998, 6.1035156e-005], [], 0, "CAN_COLLIDE"];
+  _vehicle_885 = _this;
+  _this setPos [2165.3647, 14379.998, 6.1035156e-005];
+};
+
+_vehicle_886 = objNull;
+if (true) then
+{
+  _this = createVehicle ["ClutterCutter_EP1", [2168.8147, 14392.099, 9.1552734e-005], [], 0, "CAN_COLLIDE"];
+  _vehicle_886 = _this;
+  _this setPos [2168.8147, 14392.099, 9.1552734e-005];
+};
+
+_vehicle_887 = objNull;
+if (true) then
+{
+  _this = createVehicle ["ClutterCutter_EP1", [2175.1902, 14405.791, -6.1035156e-005], [], 0, "CAN_COLLIDE"];
+  _vehicle_887 = _this;
+  _this setPos [2175.1902, 14405.791, -6.1035156e-005];
+};
+
+_vehicle_888 = objNull;
+if (true) then
+{
+  _this = createVehicle ["ClutterCutter_EP1", [2177.6421, 14414.82, 0.00018310547], [], 0, "CAN_COLLIDE"];
+  _vehicle_888 = _this;
+  _this setPos [2177.6421, 14414.82, 0.00018310547];
+};
+
+_vehicle_889 = objNull;
+if (true) then
+{
+  _this = createVehicle ["ClutterCutter_EP1", [2269.7646, 14421.529, 0], [], 0, "CAN_COLLIDE"];
+  _vehicle_889 = _this;
+  _this setPos [2269.7646, 14421.529, 0];
+};
+
+_vehicle_890 = objNull;
+if (true) then
+{
+  _this = createVehicle ["ClutterCutter_EP1", [2274.8884, 14435.949, 6.1035156e-005], [], 0, "CAN_COLLIDE"];
+  _vehicle_890 = _this;
+  _this setPos [2274.8884, 14435.949, 6.1035156e-005];
+};
+
+_vehicle_891 = objNull;
+if (true) then
+{
+  _this = createVehicle ["ClutterCutter_EP1", [2280.0793, 14450.264, 6.1035156e-005], [], 0, "CAN_COLLIDE"];
+  _vehicle_891 = _this;
+  _this setPos [2280.0793, 14450.264, 6.1035156e-005];
+};
+
+_vehicle_892 = objNull;
+if (true) then
+{
+  _this = createVehicle ["ClutterCutter_EP1", [2287.3225, 14462.072, 0.00018310547], [], 0, "CAN_COLLIDE"];
+  _vehicle_892 = _this;
+  _this setPos [2287.3225, 14462.072, 0.00018310547];
+};
+
+_vehicle_893 = objNull;
+if (true) then
+{
+  _this = createVehicle ["ClutterCutter_EP1", [2296.0659, 14474.106, 0.00012207031], [], 0, "CAN_COLLIDE"];
+  _vehicle_893 = _this;
+  _this setPos [2296.0659, 14474.106, 0.00012207031];
+};
+
+_vehicle_894 = objNull;
+if (true) then
+{
+  _this = createVehicle ["ClutterCutter_EP1", [2304.1755, 14486.42, 0.00024414063], [], 0, "CAN_COLLIDE"];
+  _vehicle_894 = _this;
+  _this setPos [2304.1755, 14486.42, 0.00024414063];
+};
+
+_vehicle_895 = objNull;
+if (true) then
+{
+  _this = createVehicle ["ClutterCutter_EP1", [2311.9312, 14498.969, 0.00012207031], [], 0, "CAN_COLLIDE"];
+  _vehicle_895 = _this;
+  _this setPos [2311.9312, 14498.969, 0.00012207031];
+};
+
+_vehicle_896 = objNull;
+if (true) then
+{
+  _this = createVehicle ["ClutterCutter_EP1", [2320.2832, 14504.916, 6.1035156e-005], [], 0, "CAN_COLLIDE"];
+  _vehicle_896 = _this;
+  _this setPos [2320.2832, 14504.916, 6.1035156e-005];
+};
+
+_vehicle_897 = objNull;
+if (true) then
+{
+  _this = createVehicle ["ClutterCutter_EP1", [2334.3337, 14506.254, -0.00012207031], [], 0, "CAN_COLLIDE"];
+  _vehicle_897 = _this;
+  _this setPos [2334.3337, 14506.254, -0.00012207031];
+};
+
+_vehicle_898 = objNull;
+if (true) then
+{
+  _this = createVehicle ["ClutterCutter_EP1", [2349.5493, 14498.578, 0.00030517578], [], 0, "CAN_COLLIDE"];
+  _vehicle_898 = _this;
+  _this setPos [2349.5493, 14498.578, 0.00030517578];
+};
+
+_vehicle_899 = objNull;
+if (true) then
+{
+  _this = createVehicle ["ClutterCutter_EP1", [2343.3616, 14502.709, 0], [], 0, "CAN_COLLIDE"];
+  _vehicle_899 = _this;
+  _this setPos [2343.3616, 14502.709, 0];
+};
+
+_vehicle_900 = objNull;
+if (true) then
+{
+  _this = createVehicle ["ClutterCutter_EP1", [2360.0293, 14489.081, -0.00018310547], [], 0, "CAN_COLLIDE"];
+  _vehicle_900 = _this;
+  _this setPos [2360.0293, 14489.081, -0.00018310547];
+};
+
+_vehicle_901 = objNull;
+if (true) then
+{
+  _this = createVehicle ["ClutterCutter_EP1", [2368.3489, 14478.81, 0.00018310547], [], 0, "CAN_COLLIDE"];
+  _vehicle_901 = _this;
+  _this setPos [2368.3489, 14478.81, 0.00018310547];
+};
+
+_vehicle_902 = objNull;
+if (true) then
+{
+  _this = createVehicle ["ClutterCutter_EP1", [2375.3889, 14467.177, 0.00018310547], [], 0, "CAN_COLLIDE"];
+  _vehicle_902 = _this;
+  _this setPos [2375.3889, 14467.177, 0.00018310547];
+};
+
+_vehicle_903 = objNull;
+if (true) then
+{
+  _this = createVehicle ["ClutterCutter_EP1", [2382.1099, 14454.366, 6.1035156e-005], [], 0, "CAN_COLLIDE"];
+  _vehicle_903 = _this;
+  _this setPos [2382.1099, 14454.366, 6.1035156e-005];
+};
+
+_vehicle_904 = objNull;
+if (true) then
+{
+  _this = createVehicle ["ClutterCutter_EP1", [2381.1003, 14440.242, 0.00012207031], [], 0, "CAN_COLLIDE"];
+  _vehicle_904 = _this;
+  _this setPos [2381.1003, 14440.242, 0.00012207031];
+};
+
+_vehicle_905 = objNull;
+if (true) then
+{
+  _this = createVehicle ["ClutterCutter_EP1", [2383.1899, 14448.245, 6.1035156e-005], [], 0, "CAN_COLLIDE"];
+  _vehicle_905 = _this;
+  _this setPos [2383.1899, 14448.245, 6.1035156e-005];
+};
+
+_vehicle_906 = objNull;
+if (true) then
+{
+  _this = createVehicle ["ClutterCutter_EP1", [2378.5657, 14427.636, 0], [], 0, "CAN_COLLIDE"];
+  _vehicle_906 = _this;
+  _this setPos [2378.5657, 14427.636, 0];
+};
+
+_vehicle_907 = objNull;
+if (true) then
+{
+  _this = createVehicle ["ClutterCutter_EP1", [2372.7051, 14413.22, 6.1035156e-005], [], 0, "CAN_COLLIDE"];
+  _vehicle_907 = _this;
+  _this setPos [2372.7051, 14413.22, 6.1035156e-005];
+};
+
+_vehicle_908 = objNull;
+if (true) then
+{
+  _this = createVehicle ["ClutterCutter_EP1", [2364.0833, 14395.161, 0], [], 0, "CAN_COLLIDE"];
+  _vehicle_908 = _this;
+  _this setPos [2364.0833, 14395.161, 0];
+};
+
+_vehicle_909 = objNull;
+if (true) then
+{
+  _this = createVehicle ["ClutterCutter_EP1", [2352.1313, 14374.976, 0], [], 0, "CAN_COLLIDE"];
+  _vehicle_909 = _this;
+  _this setPos [2352.1313, 14374.976, 0];
+};
+
+_vehicle_910 = objNull;
+if (true) then
+{
+  _this = createVehicle ["ClutterCutter_EP1", [2358.457, 14384.04, -6.1035156e-005], [], 0, "CAN_COLLIDE"];
+  _vehicle_910 = _this;
+  _this setPos [2358.457, 14384.04, -6.1035156e-005];
+};
+
+_vehicle_911 = objNull;
+if (true) then
+{
+  _this = createVehicle ["ClutterCutter_EP1", [2346.6865, 14362.393, 0], [], 0, "CAN_COLLIDE"];
+  _vehicle_911 = _this;
+  _this setPos [2346.6865, 14362.393, 0];
+};
+
+_vehicle_912 = objNull;
+if (true) then
+{
+  _this = createVehicle ["ClutterCutter_EP1", [2349.7212, 14368.511, 0], [], 0, "CAN_COLLIDE"];
+  _vehicle_912 = _this;
+  _this setPos [2349.7212, 14368.511, 0];
+};
+
+_vehicle_913 = objNull;
+if (true) then
+{
+  _this = createVehicle ["ClutterCutter_EP1", [2371.4548, 14390.24, 6.1035156e-005], [], 0, "CAN_COLLIDE"];
+  _vehicle_913 = _this;
+  _this setPos [2371.4548, 14390.24, 6.1035156e-005];
+};
+
+_vehicle_914 = objNull;
+if (true) then
+{
+  _this = createVehicle ["ClutterCutter_EP1", [2383.2568, 14388.556, -0.00012207031], [], 0, "CAN_COLLIDE"];
+  _vehicle_914 = _this;
+  _this setPos [2383.2568, 14388.556, -0.00012207031];
+};
+
+_vehicle_915 = objNull;
+if (true) then
+{
+  _this = createVehicle ["ClutterCutter_EP1", [2392.2849, 14378.947, 0], [], 0, "CAN_COLLIDE"];
+  _vehicle_915 = _this;
+  _this setPos [2392.2849, 14378.947, 0];
+};
+
+_vehicle_916 = objNull;
+if (true) then
+{
+  _this = createVehicle ["ClutterCutter_EP1", [2398.0874, 14366.545, 0], [], 0, "CAN_COLLIDE"];
+  _vehicle_916 = _this;
+  _this setPos [2398.0874, 14366.545, 0];
+};
+
+_vehicle_917 = objNull;
+if (true) then
+{
+  _this = createVehicle ["ClutterCutter_EP1", [2404.3167, 14356.442, -6.1035156e-005], [], 0, "CAN_COLLIDE"];
+  _vehicle_917 = _this;
+  _this setPos [2404.3167, 14356.442, -6.1035156e-005];
+};
+
+_vehicle_918 = objNull;
+if (true) then
+{
+  _this = createVehicle ["ClutterCutter_EP1", [2414.165, 14345.546, 0.00012207031], [], 0, "CAN_COLLIDE"];
+  _vehicle_918 = _this;
+  _this setPos [2414.165, 14345.546, 0.00012207031];
+};
+
+_vehicle_919 = objNull;
+if (true) then
+{
+  _this = createVehicle ["ClutterCutter_EP1", [2421.7268, 14337.178, 0], [], 0, "CAN_COLLIDE"];
+  _vehicle_919 = _this;
+  _this setPos [2421.7268, 14337.178, 0];
+};
+
+_vehicle_920 = objNull;
+if (true) then
+{
+  _this = createVehicle ["ClutterCutter_EP1", [2430.408, 14327.584, 6.1035156e-005], [], 0, "CAN_COLLIDE"];
+  _vehicle_920 = _this;
+  _this setPos [2430.408, 14327.584, 6.1035156e-005];
+};
+
+_vehicle_921 = objNull;
+if (true) then
+{
+  _this = createVehicle ["ClutterCutter_EP1", [2438.9258, 14317.388, 0.00018310547], [], 0, "CAN_COLLIDE"];
+  _vehicle_921 = _this;
+  _this setPos [2438.9258, 14317.388, 0.00018310547];
+};
+
+_vehicle_922 = objNull;
+if (true) then
+{
+  _this = createVehicle ["ClutterCutter_EP1", [2260.8013, 14330.558, -0.00012207031], [], 0, "CAN_COLLIDE"];
+  _vehicle_922 = _this;
+  _this setPos [2260.8013, 14330.558, -0.00012207031];
+};
+
+_vehicle_923 = objNull;
+if (true) then
+{
+  _this = createVehicle ["ClutterCutter_EP1", [2265.1399, 14342.69, 0], [], 0, "CAN_COLLIDE"];
+  _vehicle_923 = _this;
+  _this setPos [2265.1399, 14342.69, 0];
+};
+
+_vehicle_924 = objNull;
+if (true) then
+{
+  _this = createVehicle ["ClutterCutter_EP1", [2268.3271, 14351.346, 0], [], 0, "CAN_COLLIDE"];
+  _vehicle_924 = _this;
+  _this setPos [2268.3271, 14351.346, 0];
+};
+
 };
