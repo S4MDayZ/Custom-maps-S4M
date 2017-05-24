@@ -1316,4 +1316,76 @@ if (true) then
   _this setPos [12482.97, 13600.416, 0.00022888184];
 };
 
+_vehicle_265 = objNull;
+if (true) then
+{
+  _this = createVehicle ["ClutterCutter_EP1", [12548.909, 13556.293, 3.8146973e-005], [], 0, "CAN_COLLIDE"];
+  _vehicle_265 = _this;
+  _this setPos [12548.909, 13556.293, 3.8146973e-005];
+};
+
+_vehicle_266 = objNull;
+if (true) then
+{
+  _this = createVehicle ["ClutterCutter_EP1", [12541.399, 13541.358, 0], [], 0, "CAN_COLLIDE"];
+  _vehicle_266 = _this;
+  _this setPos [12541.399, 13541.358, 0];
+};
+
+_vehicle_267 = objNull;
+if (true) then
+{
+  _this = createVehicle ["ClutterCutter_EP1", [12519.672, 13551.046, 0], [], 0, "CAN_COLLIDE"];
+  _vehicle_267 = _this;
+  _this setPos [12519.672, 13551.046, 0];
+};
+
+_vehicle_268 = objNull;
+if (true) then
+{
+  _this = createVehicle ["ClutterCutter_EP1", [12525.345, 13560.595, 0], [], 0, "CAN_COLLIDE"];
+  _vehicle_268 = _this;
+  _this setPos [12525.345, 13560.595, 0];
+};
+
+_vehicle_269 = objNull;
+if (true) then
+{
+  _this = createVehicle ["ClutterCutter_EP1", [12531.296, 13570.145, 0], [], 0, "CAN_COLLIDE"];
+  _vehicle_269 = _this;
+  _this setPos [12531.296, 13570.145, 0];
+};
+
+_vehicle_270 = objNull;
+if (true) then
+{
+  _this = createVehicle ["ClutterCutter_EP1", [12538.217, 13561.703, 0], [], 0, "CAN_COLLIDE"];
+  _vehicle_270 = _this;
+  _this setPos [12538.217, 13561.703, 0];
+};
+
+_vehicle_271 = objNull;
+if (true) then
+{
+  _this = createVehicle ["ClutterCutter_EP1", [12532.127, 13547.309, 0], [], 0, "CAN_COLLIDE"];
+  _vehicle_271 = _this;
+  _this setPos [12532.127, 13547.309, 0];
+};
+
+_vehicle_272 = objNull;
+if (true) then
+{
+  _this = createVehicle ["ClutterCutter_EP1", [12557.177, 13566.27, 0], [], 0, "CAN_COLLIDE"];
+  _vehicle_272 = _this;
+  _this setPos [12557.177, 13566.27, 0];
+};
+
+_vehicle_273 = objNull;
+if (true) then
+{
+  _this = createVehicle ["ClutterCutter_EP1", [12544.029, 13578.034, 0], [], 0, "CAN_COLLIDE"];
+  _vehicle_273 = _this;
+  _this setPos [12544.029, 13578.034, 0];
+};
+
 };
